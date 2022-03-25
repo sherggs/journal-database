@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const mongoose = require('mongoose');
 
-const homeStartingContent = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a egestas velit. Vestibulum massa orci, facilisis ac magna in, lacinia consequat lectus. Sed ut est elementum, fringilla erat rhoncus, pulvinar magna. Mauris dignissim eleifend neque, et porta lacus mattis in. Aenean vulputate odio non mattis rhoncus. Mauris egestas purus at nunc";
+const homeStartingContent = "All you compose comes after this ";
 
 
 const aboutContent = "About me";
