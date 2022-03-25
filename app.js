@@ -9,7 +9,7 @@ const homeStartingContent = " To compose and publish a post ";
 
 
 const aboutContent = "About me";
-const contactContent = "Contact me here";
+const contactContent = " ";
 
 const app = express();
 
